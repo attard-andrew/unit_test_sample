@@ -1,0 +1,4 @@
+[
+  "pytest_test.py::test_increment",
+  "pytest_test.py::test_decrement"
+]
